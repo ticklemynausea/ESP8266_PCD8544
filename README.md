@@ -1,4 +1,4 @@
-# PCD8544 (Nokia 5510) LCD library for usage with the ESP8266
+# PCD8544 (Nokia 5110) LCD library for usage with the ESP8266
 
 This is a simple implementation made mostly for learning purposes. As of now, it only supports software SPI
 connection using five pins and is very limited in its functionality: it doesn't support partial updates, has only one
